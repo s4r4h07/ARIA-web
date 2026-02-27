@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  font-family: Georgia , sans-serif;
+}
+
+//Centering everything
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+//Main chat container
+.chat-container{
+  width: 500px;
+  height: 600px;
+  background: blue;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
