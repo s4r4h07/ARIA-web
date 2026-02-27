@@ -2,8 +2,9 @@ body{
   background: black;
   margin: 0;
   font-family: Georgia , sans-serif;
-
+}
 /*Centering everything */
+body{
   display: flex;
   justify-content: center;
   align-items: center;
