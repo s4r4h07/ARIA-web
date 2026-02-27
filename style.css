@@ -18,7 +18,7 @@ body{
 .chat-container{
   width: 500px;
   height: 600px;
-  background: blue;
+  background: black;
   border-radius: 15px;
   padding: 20px;
   display: flex;
